@@ -9,15 +9,13 @@
 		<a href="mailto:siddhant.kochhar1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-siddhant.kochhar1%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
 	</p>
 
-	<p>
-		<a href="#-github-contribution-grid-snake"><img alt="Snake Workflow" src="https://img.shields.io/github/actions/workflow/status/Siddhant-kochhar/siddhantkochhar/snake.yml?label=snake%20animation&logo=github"></a>
-		<a href="https://github.com/Siddhant-kochhar/siddhantkochhar/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/Siddhant-kochhar/siddhantkochhar?logo=github"></a>
-		<a href="https://github.com/psf/black"><img alt="Code style: Black" src="https://img.shields.io/badge/code_style-black-000000.svg"></a>
-		<a href="https://peps.python.org/pep-0484/"><img alt="Typing: PEP 484" src="https://img.shields.io/badge/typing-PEP%20484-3776AB?logo=python&logoColor=white"></a>
-		<a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid"><img alt="Action: snk" src="https://img.shields.io/badge/marketplace-snk%20%F0%9F%90%8D-2ea043?logo=github"></a>
-	</p>
-
-</div>
+  <p>
+    <a href="#-github-contribution-grid-snake"><img alt="Snake Workflow" src="https://img.shields.io/github/actions/workflow/status/Siddhant-kochhar/Siddhant-kochhar/snake.yml?label=snake%20animation&logo=github"></a>
+    <a href="https://github.com/Siddhant-kochhar/Siddhant-kochhar/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/Siddhant-kochhar/Siddhant-kochhar?logo=github"></a>
+    <a href="https://github.com/psf/black"><img alt="Code style: Black" src="https://img.shields.io/badge/code_style-black-000000.svg"></a>
+    <a href="https://peps.python.org/pep-0484/"><img alt="Typing: PEP 484" src="https://img.shields.io/badge/typing-PEP%20484-3776AB?logo=python&logoColor=white"></a>
+    <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid"><img alt="Action: snk" src="https://img.shields.io/badge/marketplace-snk%20%F0%9F%90%8D-2ea043?logo=github"></a>
+  </p></div>
 
 ---
 
@@ -121,12 +119,10 @@ Gen AI Intern • May 2025 – June 2025
 ## 🐍 GitHub Contribution Grid Snake
 
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddhant-kochhar/siddhantkochhar/output/github-contribution-grid-snake-dark.svg" />
-	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddhant-kochhar/siddhantkochhar/output/github-contribution-grid-snake.svg" />
-	<img alt="github-snake" src="https://raw.githubusercontent.com/Siddhant-kochhar/siddhantkochhar/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<details>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddhant-kochhar/Siddhant-kochhar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddhant-kochhar/Siddhant-kochhar/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Siddhant-kochhar/Siddhant-kochhar/output/github-contribution-grid-snake.svg" />
+</picture><details>
 <summary>Usage (GitHub Action)</summary>
 
 ```yaml
