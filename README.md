@@ -1,113 +1,112 @@
 <div align="center">
 
-<h1>Hi, I'm Siddhant Kochhar 👋</h1>
-<p><strong>Building AI‑first experiences that feel simple, helpful, and fast.</strong></p>
+# Siddhant Kochhar
+
+**Platform Engineer @ Quantiphi | GenAI & Backend Developer**
 
 <p>
-<a href="https://www.linkedin.com/in/siddhant-kochhar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Siddhant%20Kochhar-0A66C2?logo=linkedin"></a>
-<a href="https://leetcode.com/u/Siddhant_Kochhar/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white"></a>
-<a href="mailto:siddhant.kochhar1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-siddhant.kochhar1%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/siddhant-kochhar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Siddhant%20Kochhar-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://leetcode.com/u/Siddhant_Kochhar/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="mailto:siddhant.kochhar1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-siddhant.kochhar1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p>
-<a href="#-github-contribution-grid-snake"><img alt="Snake Workflow" src="https://img.shields.io/github/actions/workflow/status/Siddhant-kochhar/Siddhant-kochhar/snake.yml?label=snake%20animation&logo=github"></a>
-<a href="https://github.com/Siddhant-kochhar/Siddhant-kochhar/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/Siddhant-kochhar/Siddhant-kochhar?logo=github"></a>
-<a href="https://github.com/psf/black"><img alt="Code style: Black" src="https://img.shields.io/badge/code_style-black-000000.svg"></a>
-<a href="https://peps.python.org/pep-0484/"><img alt="Typing: PEP 484" src="https://img.shields.io/badge/typing-PEP%20484-3776AB?logo=python&logoColor=white"></a>
-<a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid"><img alt="Action: snk" src="https://img.shields.io/badge/marketplace-snk%20%F0%9F%90%8D-2ea043?logo=github"></a>
+  <a href="#-github-contribution-grid-snake"><img alt="Snake Workflow" src="https://img.shields.io/github/actions/workflow/status/Siddhant-kochhar/Siddhant-kochhar/snake.yml?label=snake%20animation&logo=github&style=flat-square"></a>
+  <a href="https://github.com/psf/black"><img alt="Code style: Black" src="https://img.shields.io/badge/code_style-black-000000.svg?style=flat-square"></a>
+  <a href="https://peps.python.org/pep-0484/"><img alt="Typing: PEP 484" src="https://img.shields.io/badge/typing-PEP%20484-3776AB?logo=python&logoColor=white&style=flat-square"></a>
 </p>
+
+---
+
+<h3>🚀 Building scalable cloud infrastructure and AI-first backend systems.</h3>
 
 </div>
 
----
+I am a Platform Engineer and Backend Developer specializing in designing high-availability cloud architecture, DevOps automation, and building intelligent GenAI solutions. I love owning products end-to-end—from infrastructure provisioning to containerized deployments and multi-agent backend engineering.
 
-I’m an engineer who loves turning ideas into useful products—especially with Generative AI, conversational interfaces, and pragmatic backend systems. I enjoy owning problems end‑to‑end: scoping, building, iterating with users, and shipping.
-
-- Previously: Gen AI Intern at MagicPin (May–June 2025)
-- Interests: conversational AI, recommendations, personal productivity, health tech, learning tools
-- Currently: honing backend + LLM skills, and solving DSA on LeetCode
-
-> Open to AI/ML, Backend (Python/FastAPI), and SDE roles. Let’s connect!
+- 🛠️ **Current Role:** Platform Engineer at **Quantiphi** (Cloud, DevOps, Infrastructure as Code, Kubernetes).
+- 🧠 **Specialization:** Building production-grade LLM applications, custom MCP servers, and multi-agent systems using **Python, FastAPI, and MongoDB**.
+- 🎓 **Education:** B.Tech in Computer Science & Engineering, **Vellore Institute of Technology (VIT) Bhopal** (CGPA: 8.88/10, Batch of 2026).
 
 ---
 
-## 🌟 Internship — MagicPin (Hybrid)
+## 💼 Experience
 
-Gen AI Intern • May 2025 – June 2025
+### 🚀 **Quantiphi** — Platform Engineer (Onsite)
+*Jan 2026 – Present*
+* **Cloud & DevOps Engineering:** Design and implement highly available, scalable infrastructure architectures for e-commerce and enterprise applications.
+* **Infrastructure as Code:** Utilize **Terraform** to provision and manage secure multi-cloud resources across **AWS and GCP**.
+* **Container Orchestration:** Deploy, scale, and manage containerized applications using **Docker** and **Kubernetes** to ensure robust service delivery.
 
-- Built a WhatsApp-based GenAI chatbot to help users discover food, fashion, and more
-- Integrated a personalized food recommendation engine using user context and history
-- Enhanced MagicPin’s personal support bot with natural, multi-turn conversations
-- Collaborated with product and engineering to ship scalable, user-facing features
-
----
-
-## 🧰 Languages & Tools
-
-<p align="center">
-<!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="36" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/>
-<!-- Frameworks & Libs -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="36" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="36" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="36" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="36" height="36"/>
-<!-- Databases & Cache -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="36" height="36"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?logo=databricks&logoColor=white" alt="SQL" height="24"/>
-<!-- Cloud -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="36" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="36" height="36"/>
-<!-- AI & Tools -->
-<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI" height="24"/>
-<img src="https://img.shields.io/badge/Gemini-0B57D0?logo=google&logoColor=white" alt="Google Gemini" height="24"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="36" height="36"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" height="24"/>
-<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-4B8BBE" alt="MCP" height="24"/>
-<img src="https://img.shields.io/badge/Cursor-Editor-6E56CF" alt="Cursor" height="24"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" alt="Canva" height="24"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white" alt="Excel" height="24"/>
-<img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint" height="24"/>
-<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white" alt="Microsoft Office" height="24"/>
-</p>
+### 🤖 **MagicPin** — Gen AI Intern (Hybrid)
+*May 2025 – June 2025*
+* **Conversational AI:** Developed a WhatsApp-based GenAI chatbot for food, fashion, and product discovery.
+* **Smart Recommendations:** Engineered a context-aware personalized food recommendation engine using historical user context.
+* **Customer Support:** Enhanced customer support interactions by integrating multi-turn chat capabilities into the core support bot.
 
 ---
 
-## 🧠 Core Competencies
+## 🛠️ Tech Stack & Skills
 
-- CS Fundamentals: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, Cloud Computing
-- Programming: Python, FastAPI, Pandas, NumPy, Matplotlib, Postman, HTML, Java
-- Databases/Cache: MongoDB, SQL, Redis
-- Cloud: AWS, GCP
-- AI/Tools: OpenAI APIs, Google Gemini, MCP server, GitHub, Cursor, Microsoft Office (Excel/PowerPoint), Canva
-- Soft Skills: Leadership, Communication, Teamwork, Problem Solving, Analytical Thinking, Learning Agility
-
----
-
-## 🧩 What I like to build
-
-- Conversational AI assistants that actually understand user intent
-- Recommendation systems that feel personal, not generic
-- Health and productivity tools with real-time feedback loops
-- Backend systems that are clean, observable, and easy to extend
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, SQL, HTML, CSS |
+| **Backend & Web** | FastAPI, Flask, REST APIs, Postman |
+| **GenAI & Agent Tech** | OpenAI APIs, Google Gemini, RAG, MCP (Model Context Protocol) |
+| **Cloud & DevOps** | AWS, GCP, Docker, Kubernetes, Terraform |
+| **Databases & Cache** | MongoDB, Redis, SQL (Postgres/MySQL) |
+| **Data Science** | Pandas, NumPy, Matplotlib |
 
 ---
 
-## 🧮 GitHub Stats
+## 📦 Featured Repositories
+
+### 🤖 Generative AI & Agent Engineering
+* 🏫 **[project-jarvis](https://github.com/Siddhant-kochhar/project-jarvis)** (AI Tutor)
+  *An AI tutor that assesses the user's proficiency to generate personalized responses, combined with a YouTube video summarizer to transform lengthy video content into concise study notes.*
+  `Python` `FastAPI` `MongoDB` `OpenAI APIs`
+* 🛠️ **[eventplanner_mcp](https://github.com/Siddhant-kochhar/eventplanner_mcp)** (EventGenie)
+  *An AI-powered event planner featuring intelligent venue recommendation, budget planning, and scheduling. Implemented using Gemini APIs, Google Places, and Model Context Protocol (MCP).*
+  `Python` `FastAPI` `MongoDB` `Redis` `Gemini` `MCP`
+* 🔗 **[weather_mcp_server](https://github.com/Siddhant-kochhar/weather_mcp_server)**
+  *A Model Context Protocol (MCP) server that empowers LLM agents to fetch live weather data and integrate real-time conditions into downstream agent logic.*
+  `Python` `MCP` `API Integration`
+* 👥 **[telegram_multiagent_bot](https://github.com/Siddhant-kochhar/telegram_multiagent_bot)**
+  *A multi-agent orchestrator chatbot on Telegram utilizing OpenAI and custom agent tools to carry out complex workflows.*
+  `Python` `OpenAI` `Telegram API` `Agentic Workflows`
+* 📖 **[rag_tutorial](https://github.com/Siddhant-kochhar/rag_tutorial)**
+  *Hands-on implementation of Retrieval-Augmented Generation (RAG) using Python, vector indexing, and LLMs.*
+  `Python` `RAG` `Embeddings` `Vector Search`
+
+### 💻 Full-Stack & Backend Systems
+* 🏋️ **[get.fit](https://github.com/Siddhant-kochhar/get.fit)** (Get.Fit)
+  *A smart health tracking platform integrated with the Google Fit API. Monitors user vitals and sends regular health summaries and real-time alerts.*
+  `Python` `FastAPI` `MongoDB` `Google Gemini` `Google Fit API`
+* 🛍️ **[E-commerce Recommender](https://github.com/Siddhant-kochhar/Siddhant_Kochhar_22BCE11684_E-commerce-Product-Recommender)**
+  *An e-commerce product recommender system utilizing machine learning models to suggest products based on user actions and context.*
+  `Python` `Machine Learning` `Recommendation Systems`
+* 📚 **[book_library_system-](https://github.com/Siddhant-kochhar/book_library_system-)**
+  *A clean library management dashboard built on FastAPI, supporting full CRUD operations for books and user members.*
+  `FastAPI` `MongoDB` `HTML/CSS/JS`
+
+---
+
+## 🎖️ Certifications & Achievements
+
+* ☁️ **Google Cloud Associate Cloud Engineer (GCP ACE)** (2026)
+* 🛡️ **AWS Academy Graduate** - AWS Academy Cloud Architecting (2025)
+* 🎓 Selected in top 500 globally for the **Ericsson Academic Training Program** (2024)
+* 🥇 Awarded national scholarship under **Deen Dayal SPARSH Yojana** by India Post (2017)
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Siddhant-kochhar&show_icons=true&rank_icon=github&theme=transparent" alt="GitHub Stats" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Siddhant-kochhar&theme=transparent" alt="GitHub Streak" height="160" />
-
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-kochhar&layout=compact&theme=transparent" alt="Top Languages" height="160" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhant-kochhar&show_icons=true&rank_icon=github&theme=transparent" alt="Siddhant's GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Siddhant-kochhar&theme=transparent" alt="Siddhant's GitHub Streak" height="160" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-kochhar&layout=compact&theme=transparent" alt="Top Languages" height="160" />
 </div>
 
 ---
@@ -115,9 +114,9 @@ Gen AI Intern • May 2025 – June 2025
 ## 🐍 GitHub Contribution Grid Snake
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddhant-kochhar/Siddhant-kochhar/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddhant-kochhar/Siddhant-kochhar/output/github-contribution-grid-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/Siddhant-kochhar/Siddhant-kochhar/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddhant-kochhar/Siddhant-kochhar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddhant-kochhar/Siddhant-kochhar/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Siddhant-kochhar/Siddhant-kochhar/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <details>
@@ -126,10 +125,7 @@ Gen AI Intern • May 2025 – June 2025
 ```yaml
 - uses: Platane/snk@v3
   with:
-    # github user name to read the contribution graph from (required)
     github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate
     outputs: |
       dist/github-contribution-grid-snake.svg
       dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -140,10 +136,6 @@ Gen AI Intern • May 2025 – June 2025
 
 ---
 
-## 📬 Reach out
-
-- LinkedIn: https://www.linkedin.com/in/siddhant-kochhar/
-- LeetCode: https://leetcode.com/u/Siddhant_Kochhar/
-- Email: siddhant.kochhar1@gmail.com
-
-If you’re building something in GenAI or need a fast-moving teammate for AI + backend work, I’d love to chat.
+<div align="center">
+  <sub>Built with ❤️ and Antigravity. Let's connect on <a href="https://www.linkedin.com/in/siddhant-kochhar/">LinkedIn</a>!</sub>
+</div>
